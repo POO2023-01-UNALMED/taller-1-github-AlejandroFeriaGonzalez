@@ -1,7 +1,6 @@
 porque ahora la carpeta si tiene contenido
 Alejandro Feria Gonzalez
 18
-Analitico de datos
-
+mis aspiraciones son aprender mucho poo
 se debe tener cuidado conn modificar dos archivos al mismo tiempo para evitar problemas que pueden escalar y se vuelven imposibles de corregir por eso hay que tratar de hace
 commits pequeños
