@@ -1,0 +1,1 @@
+github deskto no detecta que se agrego una carpeta si la carpeta esta vacia
